@@ -14,3 +14,4 @@ print(f"Los {f} grados Fahrenheit son {c} En grados celsius")
 c = float(input("Ingresa los grados Celsius: "))
 f = celsius_a_fahrenheit(c)
 print(f"Los {c} grados Celsius son {f} En grados Fahrenheit")
+
