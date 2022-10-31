@@ -6,13 +6,13 @@ import mysql.connector
 
 try:
 
-    cnx = mysql.connector.connect(user='root', password='root',
+    cnx = mysql.connector.connect(user='xXAnderJamesXx', password='AlexanderJC1810',
 
                             host='localhost',
 
                             database='PRIMARK_SHOP')
 
-#auth_plugin='mysql_native_password')##host='127.0.0.1',database='employees')
+                              #auth_plugin='mysql_native_password')##host='127.0.0.1',database='employees')
 
     #with mysql.connector.connect(user='pruebasPython', password='Secret<>', host='LOCALHOST', database='pruebas1') as cnx:
 

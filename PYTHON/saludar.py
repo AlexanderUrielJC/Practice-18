@@ -5,7 +5,7 @@ from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel
 #from imagen import
-import imagen
+#ES NECESARIA LA FOTO PARA SU BUEN FUNCIONAMIENTO DEL CODIGO
 #iniciar la aplicacionS
 app=QtWidgets.QApplication([])
 

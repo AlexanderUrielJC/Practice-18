@@ -1,4 +1,1 @@
-a = 2.3 
-b = 3
-c = a * b /a
-print (c)
+#operaciones aritmeticas en codigo Py (Funciones)
