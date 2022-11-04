@@ -1,1 +1,0 @@
-lst_paises = ['alemania , belgica, Dinamarca']

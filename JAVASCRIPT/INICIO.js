@@ -183,3 +183,12 @@ var Materia = 'Macroeconomia';
 console.log(Materia);
 
 console.log(materia)
+
+///Cadenas de caracteres
+var Nombre = 'Alexander Uriel';
+var Apellido = 'Juarez Costilla';
+///Escapar Comillas en Cadenas de Caracteres
+var Micadena = 'Soy una cadena de caracteres \'con comillas'
+console.log(Micadena)
+///Cadenas de Caracteres con Comillas Simples
+var Mimeta; 

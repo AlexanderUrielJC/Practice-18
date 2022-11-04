@@ -1,1 +1,0 @@
-#operaciones aritmeticas en codigo Py (Funciones)
