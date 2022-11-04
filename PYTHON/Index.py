@@ -11,7 +11,7 @@ def home():
 #direccionarnos a otro apartado del URL por ejemplo 'localhost:5000/about' nos direccionara al acerca de. del sitio web
 @app.route('/about')
 #Defino la variable como tal 'about' y la defino en la variable como '/about' nombre que recibe el codigo que se utilizara para 
-#direccionarnos a about de la pagina web
+#direccionarnos a about de la pagina webcl
 def about():
 #Que como resultado saldra en pantalla el nombre de la pagina ?
     return render_template('about.html')
