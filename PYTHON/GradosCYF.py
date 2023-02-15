@@ -15,3 +15,5 @@ c = float(input("Ingresa los grados Celsius: "))
 f = celsius_a_fahrenheit(c)
 print(f"Los {c} grados Celsius son {f} En grados Fahrenheit")
 
+#Completar codigo, verificar vatiables y funcionamiento. 
+#Liga//Insta
